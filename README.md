@@ -1,19 +1,15 @@
 
 # Project Title
 
-A beautiful Cryptocurrency portfolio with React JS, Material UI . Loging is implemented .
+It is a backend of Task managing app.Here to create user,login user and create ,delete,update task rest api have been created.Here password saved in hashed form and all  tasks are authenticated by using JWT. 
 
 
 ## Tech Stack
 
-**Client:** React Js, Material UI
+**Client:** Node.js,express,mongodb
 
 
 
-## Demo
-Find  the below deployed angelscoin website 
-
-https://mycredore.netlify.app/
 
 
 
@@ -22,7 +18,7 @@ https://mycredore.netlify.app/
 Clone the project
 
 ```bash
-  https://github.com/geekychandan/Crypto-user-dashboard.git
+  https://github.com/geekychandan/task-manager-backend.git
 ```
 
 Go to the project directory
@@ -34,13 +30,13 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  yarn
+  npm
 ```
 
 Start the server
 
 ```bash
-  rarn start
+  npm start
 ```
 ## Authors
 
